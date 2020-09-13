@@ -1,0 +1,47 @@
+.firstbg{
+  color: white;
+  background-color: black;
+}
+.secondbg{
+  color: black;
+  background-color:aquamarine;
+}
+.text-center{
+  text-align: center
+}
+.wrapper{
+  width: 700px;
+  margin: auto;
+}
+footer{
+    color: white;
+    background-color: black;
+    text-align: center
+}
+.center{
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+.thirdbg{
+  color: black;
+  background-color: lightblue;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.container {
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellowgreen
+}
+
+.item {
+    width: 10em;
+}
+body{
+  background-color: yellow
+}
+header{
+  text-decoration: underline
+}

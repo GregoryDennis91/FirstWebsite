@@ -1,0 +1,1 @@
+"After working outdoors for a majority of my life, my interests generally revolve around being alone and indoors, making coding feel like a natural fit."
